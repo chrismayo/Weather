@@ -1,0 +1,5 @@
+1.首先安装工具：sudo apt-get install --no-install-recommends gnome-panel
+2.安装成功后，运行下面的命令：
+gnome-desktop-item-edit --create-new ~/桌面
+跳出的对话框中，可以自定义启动菜单，自己写的Qt程序也可以启动
+
